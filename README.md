@@ -4,4 +4,4 @@
 
 This is [LevelDB][leveldb] as an Alpine Linux package.
 
-[glog]: http://leveldb.org
+[leveldb]: http://leveldb.org
